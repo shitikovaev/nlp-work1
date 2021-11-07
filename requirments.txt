@@ -1,0 +1,6 @@
+nlp-rake==0.0.2
+pandas==1.2.0
+summa==1.2.0
+nltk==3.6.3
+sklearn==0.9.1
+scikit-learn==1.0.1
